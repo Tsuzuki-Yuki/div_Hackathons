@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bed64dc-4c91-451e-9c8d-b8ba1401af17" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.div_Hackathons/.idea/contentModel.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.div_Hackathons/.idea/indexLayout.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.div_Hackathons/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.div_Hackathons/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.div_Hackathons/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.div_Hackathons/riderModule.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Anim/Anim 1.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Anim/Anim 1.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Anim/Anim 2.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Anim/Anim 2.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Anim/Anim.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Anim/Anim.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About/AboutFightingUnity-chan.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About/AboutFightingUnity-chan.pdf.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0004_CH01_AS_MAWAK.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0004_CH01_AS_MAWAK.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0025_MYA_TF_DOWN.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0025_MYA_TF_DOWN.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0029_Cha01_STL01_ScrewK01.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0029_Cha01_STL01_ScrewK01.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM03_0005_Landing.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM03_0005_Landing.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM03_0019_HeadSpring.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM03_0019_HeadSpring.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0000_Idle.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0000_Idle.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0001_M_CMN_LJAB.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0001_M_CMN_LJAB.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0022_M_RISING_P.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0022_M_RISING_P.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM_0012b_EH_RUN_LP_NoZ.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM_0012b_EH_RUN_LP_NoZ.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM_04_0001_RHiKick.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM_04_0001_RHiKick.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/HarukaKajita (1).controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/HarukaKajita (1).controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Material.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Material.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Scene_Material.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Scene_Material.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Scene_Material2.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Scene_Material2.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body2.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body2.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body3.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body3.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body4.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body4.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body5.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body5.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body6.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body6.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body7.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body7.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eye_L1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eye_L1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eye_R1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eye_R1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyebase.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyebase.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyeline.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyeline.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyeline1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyeline1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face2.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face2.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair2.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair2.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair3.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair3.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/mat_cheek.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/mat_cheek.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/skin1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/skin1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animator.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animator/FightingUnityChan_free.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animator/FightingUnityChan_free.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Ground.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Ground.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Left.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Material.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Material.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Right.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Scene_Material.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Scene_Material.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Scene_Material2.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Scene_Material2.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/body.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_L1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_R1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyebase.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyeline.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/face.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/hair.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/mat_cheek.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/skin1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/body.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/eye_L1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/eye_R1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/eyebase.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/eyeline.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/face.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/hair.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/mat_cheek.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/skin1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/DEFAULT_NORMAL.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/ENV2.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/FO_CLOTH1.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/FO_SKIN1.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/body_01.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/body_01_NRM.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/body_01_SPEC.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/cheek_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/eye_iris_L_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/eye_iris_R_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/eyeline_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/face_00.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/face_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/hair_01.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/hair_01_NRM.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/hair_01_SPEC.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/skin_01.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/unitychan.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Prefabs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Prefabs/Package04_animChanger.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Prefabs/Package04_animChanger.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scene.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scene/FUCMAnimationPreviewFree.unity" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scene/FUCMAnimationPreviewFree.unity.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/CameraController.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/CameraController.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/IdleChanger.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/IdleChanger.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Music.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Music/Unite In The Sky (full).mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Music/Unite In The Sky (full).mp3.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage.unity" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage.unity.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Glow Text 1.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Glow Text 1.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Glow Text 1.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Glow Text 1.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Glow Text 2.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Glow Text 2.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Glow Text 2.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Glow Text 2.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Light Glow.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Light Glow.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Light Glow.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Light Glow.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Stage Light.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Stage Light.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Stage Light.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Stage Light.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Unity Sign.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Unity Sign.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Unity Sign.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Animation/Unity Sign.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen/Back Screen.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen/Back Screen.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen/Back Screen.renderTexture" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen/Back Screen.renderTexture.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen/ForceAspectRatio.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen/ForceAspectRatio.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen/Stripes.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Back Screen/Stripes.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Confetti.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Confetti/Confetti.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Confetti/Confetti.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Confetti/Confetti.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Confetti/Confetti.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Laser.FBX" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Laser.FBX.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Laser.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Laser.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Laser.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Laser.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Materials/No Name.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Materials/No Name.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Materials/light_black.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Materials/light_black.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Materials/light_green.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Laser/Materials/light_green.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Light Beam.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Light Beam.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Light Beam.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Light Beam.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Light Decay.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Light Decay.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Smoke L.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Smoke L.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Smoke S.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Light Beam/Smoke S.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Red Surface.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Red Surface.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Ribbon.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Ribbon.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Stage Light.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Stage Light.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Ticker 1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Ticker 1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Ticker 2.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Ticker 2.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Tree Leaf.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Tree Leaf.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Yellow Surface.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Materials/Yellow Surface.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Materials/light_black.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Materials/light_black.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Materials/light_green.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Materials/light_green.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Ring Fx.FBX" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Ring Fx.FBX.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Ring Fx.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Ring Fx/Ring Fx.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Back Screen.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Back Screen.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Confetti.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Confetti.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Emmisive Surface.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Emmisive Surface.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Light Beam.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Light Beam.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Scrolling Ticker.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Scrolling Ticker.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Tree Leaf.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Tree Leaf.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Unlit Alpha Cutout.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Shaders/Unlit Alpha Cutout.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Spray.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Spray/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Spray/Materials/effector01.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Spray/Materials/effector01.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Spray/Particles.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Effects/Spray/Particles.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ2.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ2.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ3.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ3.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ4.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ4.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ5.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQ5.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQfloor.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQfloor.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQobj1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/EQobj1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/backscreen.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/backscreen.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/bg.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/bg.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/dummy1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/dummy1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/dummy2.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/dummy2.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/effectUnit.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/effectUnit.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/floor01.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/floor01.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/greenlight.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/greenlight.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/live.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/live.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/scrl_text.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/scrl_text.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/sign01.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/sign01.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/sign01light.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/sign01light.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/spotlightBody.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/spotlightBody.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/tras.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/tras.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/unitylogo.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/unitylogo.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/wall01.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/Materials/wall01.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/backscreen.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/backscreen.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/floor01.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/floor01.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/glowsign01.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/glowsign01.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/ribbon.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/ribbon.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/speaker.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/speaker.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/spotlight.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/spotlight.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/stage.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/stage.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/tree.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/tree.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/unitylogo.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Models/unitylogo.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Back Screen Camera Rig.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Back Screen Camera Rig.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Back Screen.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Back Screen.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Background.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Background.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Confetti (light).prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Confetti (light).prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Confetti.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Confetti.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Main Camera Rig.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Main Camera Rig.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Stage.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Stage.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Visualizer.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Prefabs/Visualizer.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/EQfloor.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/EQfloor.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/White Logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/White Logo.png.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/bg.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/bg.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/floor01.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/floor01.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/light.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/light.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/live.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/live.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/scrl_text.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/scrl_text.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/sign01.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/sign01.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/tras.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/tras.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/unitylogo.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/unitylogo.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/wall01.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/wall01.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/wall02.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Textures/wall02.psd.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/CopyDepth.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/CopyDepth.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/CopyDepth.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/CopyDepth.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/MirrorReflection.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/MirrorReflection.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/Visualizer.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/Visualizer.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/Visualizer.shader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Stage/UnityChanStage/Visualizer/Visualizer.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep03.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep03.wav.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep04.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep04.wav.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Jump.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Jump.wav.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Land.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Land.wav.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallGrey.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallGrey.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallWhite.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallWhite.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Models.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Models/RollerBall.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Models/RollerBall.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Prefabs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Prefabs/RollerBall.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Prefabs/RollerBall.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/RollerBallGuidelines.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/RollerBallGuidelines.txt.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Textures.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallAlbedo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallAlbedo.png.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallSpecularGloss.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallSpecularGloss.png.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurn.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurn.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurnSharp.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurnSharp.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidStandTurn.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidStandTurn.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalk.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalk.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurnSharp.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurnSharp.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator/ThirdPersonAnimatorController.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator/ThirdPersonAnimatorController.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Models.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/AIThirdPersonController.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/AIThirdPersonController.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/C86unitychan_001_SAK01_Final.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/C86unitychan_001_SAK01_Final.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/C86unitychan_002_SIM01_Final.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/C86unitychan_002_SIM01_Final.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/C86unitychan_003_NOT01_Final.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/C86unitychan_003_NOT01_Final.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/Hand_expression.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations/Hand_expression.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animators.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animators/HandOnlyMask.mask" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animators/HandOnlyMask.mask.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animators/MocapC86.controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animators/MocapC86.controller.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/CandyRockStar.fbx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/CandyRockStar.fbx.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/Effector.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/Effector.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/body.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/body.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/body_trans.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/body_trans.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/eye_L1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/eye_L1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/eye_R1.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/eye_R1.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/eyebase.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/eyebase.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/eyeline.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/eyeline.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/face.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/face.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/hair.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/hair.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/mat_cheek.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/mat_cheek.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/skin.mat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Materials/skin.mat.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/CharaMain.cg.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/CharaOutline.cg.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/CharaSkin.cg.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_akarami_blend.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_eye.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_eye_blend.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_eyelash_blend.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_fuku.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_fuku_ds.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_hada.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_hada_blend.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_hair.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_hair_ds.shader.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unlit.cg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unlit.cg.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/ENV2.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/ENV2.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/FO_CLOTH1.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/FO_CLOTH1.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/FO_RIM1.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/FO_SKIN1.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/FO_SKIN1.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_00.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_00_NRM.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_00_NRM.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_00_SPEC.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_00_SPEC.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_01.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_01.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_01_NRM.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_01_NRM.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_01_SPEC.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/body_01_SPEC.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/cheek_00.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/cheek_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/eye_iris_L_00.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/eye_iris_L_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/eye_iris_R_00.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/eye_iris_R_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/eyeline_00.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/eyeline_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/face_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/hair_01.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/hair_01.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/hair_01_NRM.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/hair_01_NRM.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/hair_01_SPEC.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/hair_01_SPEC.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/skin_00.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/skin_00.tga.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Editor.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Editor/CreateLocatorHere.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Editor/CreateLocatorHere.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_A.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_A.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_E.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_E.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_I.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_I.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_O.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_O.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_U.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/MTH_U.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile3@unitychan.anim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile3@unitychan.anim.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/CandyRockStar.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/CandyRockStar.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/CharacterLight.prefab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/CharacterLight.prefab.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/DeltaLookAtAxis.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/DeltaLookAtAxis.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IKCtrlRightHand.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IKCtrlRightHand.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/MusicStarter.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/MusicStarter.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/RandomWind.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/RandomWind.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringBone.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringBone.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringCollider.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringCollider.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringManager.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringManager.cs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZShader.shader" afterPath="$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZShader.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZTrigger.cs" afterPath="$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZTrigger.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Effects/GANTZShader/Unlit_GANTZShader.mat" afterPath="$PROJECT_DIR$/Assets/Effects/GANTZShader/Unlit_GANTZShader.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanARPose.controller" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanARPose.controller.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanActionCheck.controller" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanActionCheck.controller.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanLocomotions.controller" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Amimators/UnityChanLocomotions.controller.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Animations.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_ARpose1.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_ARpose1.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_ARpose2.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_ARpose2.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_DAMAGED00.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_DAMAGED00.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_DAMAGED01.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_DAMAGED01.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_HANDUP00_R.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_HANDUP00_R.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP00.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP00.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP00B.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP00B.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP01.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP01.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP01B.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_JUMP01B.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_LOSE00.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_LOSE00.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_REFLESH00.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_REFLESH00.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_F.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_F.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_L.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_L.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_R.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_RUN00_R.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_SLIDE00.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_SLIDE00.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_UMATOBI00.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_UMATOBI00.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT00.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT00.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT01.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT01.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT02.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT02.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT03.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT03.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT04.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WAIT04.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_B.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_B.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_F.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_F.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_L.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_L.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_R.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WALK00_R.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WIN00.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Animations/unitychan_WIN00.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/ASHAMED.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/ASHAMED.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/ASHAMED.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/ASHAMED.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/SURPRISE.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/SURPRISE.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/SURPRISE.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/SURPRISE.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry1@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry1@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry1@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry1@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry2@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry2@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry2@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/angry2@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/conf@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/conf@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/conf@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/conf@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/default@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/default@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/default@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/default@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract1@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract1@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract1@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract1@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract2@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract2@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract2@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/disstract2@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/eye_close@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/eye_close@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/eye_close@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/eye_close@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/face only mask.mask" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/face only mask.mask" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/face only mask.mask.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/face only mask.mask.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/sap@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/sap@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/sap@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/sap@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile1@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile1@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile1@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile1@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile2@unitychan.anim" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile2@unitychan.anim" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile2@unitychan.anim.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/FaceAnimation/smile2@unitychan.anim.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/BoxUnityChan.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/BoxUnityChan.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Left.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Left.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Left.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Right.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/Right.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/Right.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/body.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/body.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/body.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_L1.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_L1.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_L1.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_R1.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_R1.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eye_R1.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyebase.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyebase.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyebase.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyeline.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyeline.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/eyeline.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/face.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/face.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/face.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/hair.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/hair.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/hair.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/mat_cheek.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/mat_cheek.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/mat_cheek.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/skin1.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/skin1.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/Materials/skin1.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/body.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/body.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/body.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_L1.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/eye_L1.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_L1.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_R1.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/eye_R1.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eye_R1.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyebase.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/eyebase.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyebase.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyeline.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/eyeline.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/eyeline.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/face.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/face.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/face.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/hair.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/hair.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/hair.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/mat_cheek.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/mat_cheek.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/mat_cheek.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/skin1.mat" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Materials/skin1.mat" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Materials/skin1.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaMain.cg" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/CharaMain.cg" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaMain.cg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaOutline.cg" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/CharaOutline.cg" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaOutline.cg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaSkin.cg" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/CharaSkin.cg" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/CharaSkin.cg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_akarami_blend.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_eye.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_eye_blend.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_eyelash_blend.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_fuku.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_fuku_ds.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_hada.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_hada_blend.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_hair.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Shader/Unitychan_chara_hair_ds.shader" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/DEFAULT_NORMAL.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/DEFAULT_NORMAL.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/DEFAULT_NORMAL.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/ENV2.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/ENV2.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/ENV2.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_CLOTH1.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/FO_CLOTH1.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_CLOTH1.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_RIM1.tga" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/FO_RIM1.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_RIM1.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_SKIN1.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/FO_SKIN1.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/FO_SKIN1.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/body_01.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01_NRM.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/body_01_NRM.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01_NRM.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01_SPEC.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/body_01_SPEC.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/body_01_SPEC.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/cheek_00.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/cheek_00.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/cheek_00.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eye_iris_L_00.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/eye_iris_L_00.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eye_iris_L_00.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eye_iris_R_00.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/eye_iris_R_00.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eye_iris_R_00.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eyeline_00.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/eyeline_00.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/eyeline_00.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/face_00.tga" afterPath="$PROJECT_DIR$/Assets/UnityChan/CandyRockStar/Textures/face_00.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/face_00.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/guide.tga" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/guide.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/hair_01.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01_NRM.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/hair_01_NRM.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01_NRM.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01_SPEC.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/hair_01_SPEC.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/hair_01_SPEC.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/skin_01.tga" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/UnityChanShader/Texture/skin_01.tga" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Texture/skin_01.tga.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/unitychan.fbx" afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/unitychan.fbx" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Models/unitychan.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/BoxUnityChan.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/BoxUnityChan.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/Directional light for UnityChan.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/Directional light for UnityChan.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LevelLoader.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LevelLoader.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LookPos.prefab" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LookPos.prefab" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LookPos.prefab.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/LookPos.prefab.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/CamPos.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/CamPos.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/FrontPos.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/FrontPos.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/JumpPos.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/JumpPos.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/LookAtPos.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/LookAtPos.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/Main Camera.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/Main Camera.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/unitychan.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/for Locomotion/unitychan.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/unitychan.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Prefabs/unitychan.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/ReadMe.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/ReadMe/ReadMe_en.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/ReadMe/ReadMe_en.pdf.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/ReadMe/ReadMe_jp.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/ReadMe/ReadMe_jp.pdf.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ARPoseTest.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ARPoseTest.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ActionCheck.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/ActionCheck.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/Locomotion.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scenes/Locomotion.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SceneLoader.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/SceneLoader.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs.meta" afterPath="$PROJECT_DIR$/Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile3.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile3.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile4.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile4.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile5.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile5.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile6.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Materials/unitychan_tile6.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/AlphaMask.shader" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/AlphaMask.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures/AlphaMask.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures/AlphaMask.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures/Unity_Icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Shader/Textures/Unity_Icon.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile3.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile4.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile5.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/Stage/Textures/unitychan_tile6.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/license.txt.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GANTZShader.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZShader.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="516">
+              <caret line="80" column="21" lean-forward="false" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+              <folding>
+                <marker date="1534579029893" expanded="true" signature="27:2336" ph="{...}" />
+                <marker date="1534579029893" expanded="true" signature="42:341" ph="{...}" />
+                <marker date="1534579029893" expanded="true" signature="354:2334" ph="{...}" />
+                <marker date="1534579029893" expanded="true" signature="505:2331" ph="{...}" />
+                <marker date="1534579029893" expanded="true" signature="519:2322" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GANTZTrigger.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZTrigger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <folding>
+                <marker date="1534579987610" expanded="false" signature="6:78" ph="..." />
+                <marker date="1534579987610" expanded="true" signature="122:792" ph="{...}" />
+                <marker date="1534579987610" expanded="true" signature="210:392" ph="{...}" />
+                <marker date="1534579987610" expanded="true" signature="270:389" ph="{...}" />
+                <marker date="1534579987610" expanded="true" signature="432:532" ph="{...}" />
+                <marker date="1534579987610" expanded="true" signature="576:679" ph="{...}" />
+                <marker date="1534579987610" expanded="true" signature="721:790" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Music/MusicController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <marker date="1534583741827" expanded="false" signature="6:78" ph="..." />
+                <marker date="1534583741827" expanded="true" signature="125:244" ph="{...}" />
+                <marker date="1534583741827" expanded="true" signature="157:202" ph="/* private void Start() { ... */" />
+                <marker date="1534583741827" expanded="true" signature="222:242" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Music/MusicController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader" />
+        <option value="$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader" />
+        <option value="$PROJECT_DIR$/Assets/Stage/UnityChan/CandyRockStar/Shader/CharaSkin.cg" />
+        <option value="$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Stage/UnityChan/Scripts/MusicStarter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Stage/UnityChan/Scripts/AutoBlink.cs" />
+        <option value="$PROJECT_DIR$/Assets/Music/MusicController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="div_Hackathons (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bed64dc-4c91-451e-9c8d-b8ba1401af17" name="Default" comment="" />
+      <created>1534566968111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534566968111</updated>
+      <workItem from="1534566972226" duration="7750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7750000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="9" lean-forward="false" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Stage/UnityChan/CandyRockStar/Shader/CharaSkin.cg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="128" column="4" lean-forward="false" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_hada.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/ThirdPersonCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZShader.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="80" column="21" lean-forward="false" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+          <folding>
+            <marker date="1534579029893" expanded="true" signature="27:2336" ph="{...}" />
+            <marker date="1534579029893" expanded="true" signature="42:341" ph="{...}" />
+            <marker date="1534579029893" expanded="true" signature="354:2334" ph="{...}" />
+            <marker date="1534579029893" expanded="true" signature="505:2331" ph="{...}" />
+            <marker date="1534579029893" expanded="true" signature="519:2322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Stage/UnityChan/Scripts/MusicStarter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Stage/UnityChan/Scripts/IdleChanger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Stage/UnityChan/Scripts/SpringCollider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Stage/UnityChan/Scripts/SpringManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Stage/UnityChan/Scripts/AutoBlink.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Effects/GANTZShader/GANTZTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <marker date="1534579987610" expanded="false" signature="6:78" ph="..." />
+            <marker date="1534579987610" expanded="true" signature="122:792" ph="{...}" />
+            <marker date="1534579987610" expanded="true" signature="210:392" ph="{...}" />
+            <marker date="1534579987610" expanded="true" signature="270:389" ph="{...}" />
+            <marker date="1534579987610" expanded="true" signature="432:532" ph="{...}" />
+            <marker date="1534579987610" expanded="true" signature="576:679" ph="{...}" />
+            <marker date="1534579987610" expanded="true" signature="721:790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Music/MusicController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <marker date="1534583741827" expanded="false" signature="6:78" ph="..." />
+            <marker date="1534583741827" expanded="true" signature="125:244" ph="{...}" />
+            <marker date="1534583741827" expanded="true" signature="157:202" ph="/* private void Start() { ... */" />
+            <marker date="1534583741827" expanded="true" signature="222:242" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
