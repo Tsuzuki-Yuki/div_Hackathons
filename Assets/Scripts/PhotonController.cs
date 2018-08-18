@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PhotonController : MonoBehaviour {
-    public GameObject player;
+    
+	[SerializeField]
+	GameObject unityChanPrefab;
 
     void Start(){
         PhotonNetwork.ConnectUsingSettings("0.1");
@@ -19,13 +21,17 @@ public class PhotonController : MonoBehaviour {
 
     void OnJoinedRoom(){
         PhotonNetwork.Instantiate(
-            player.name,
+            unityChanPrefab.name,
             new Vector3(0f, 1f, 0f),
             Quaternion.identity,
             0
          );
-
-        GameObject mainCamera = GameObject.FindWithTag("MainCamera");
-        mainCamera.GetComponent<ThirdPersonCamera>().enabled = true;
+#if UNITY_STANDALONE
+        GameObject pcCamera = GameObject.FindWithTag("PCCamera");
+        pcCamera.GetComponent<Camera>().enabled = true;
+#elif UNITY_IOS
+		GameObject smartPhoneCamera = GameObject.Find("SmartPhoneCamera");
+		smartPhoneCamera.GetComponent<Camera>().enabled = true;
+#endif
     }
 }
