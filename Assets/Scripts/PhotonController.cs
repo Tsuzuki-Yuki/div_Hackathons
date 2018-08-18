@@ -6,6 +6,8 @@ public class PhotonController : MonoBehaviour {
     
 	[SerializeField]
 	GameObject unityChanPrefab;
+    // [SerializeField]
+    // GameObject kajitaPrefab;
 
     void Start(){
         PhotonNetwork.ConnectUsingSettings("0.1");
@@ -20,18 +22,20 @@ public class PhotonController : MonoBehaviour {
     }
 
     void OnJoinedRoom(){
-        PhotonNetwork.Instantiate(
-            unityChanPrefab.name,
-            new Vector3(0f, 1f, 0f),
-            Quaternion.identity,
-            0
-         );
-#if UNITY_STANDALONE
-        GameObject pcCamera = GameObject.FindWithTag("PCCamera");
-        pcCamera.GetComponent<Camera>().enabled = true;
+        var player = 
+            PhotonNetwork.Instantiate(
+                unityChanPrefab.name,
+                //kajitaPrefab.name,
+                new Vector3(0f, 1f, -30f),
+                Quaternion.identity,
+                0
+        );
+
+#if UNITY_EDITOR
+        //SetFloatで0
+
 #elif UNITY_IOS
-		GameObject smartPhoneCamera = GameObject.Find("SmartPhoneCamera");
-		smartPhoneCamera.GetComponent<Camera>().enabled = true;
+        //SetFloatで1
 #endif
     }
 }

@@ -11,7 +11,7 @@ using System.Collections;
 [RequireComponent(typeof (CapsuleCollider))]
 [RequireComponent(typeof (Rigidbody))]
 
-public class UnityChanControlScriptWithRgidBody : MonoBehaviour
+public class UnityChanControlScriptWithRgidBody : Photon.MonoBehaviour
 {
 
 	public float animSpeed = 1.5f;				// アニメーション再生速度設定
@@ -68,6 +68,11 @@ public class UnityChanControlScriptWithRgidBody : MonoBehaviour
 // 以下、メイン処理.リジッドボディと絡めるので、FixedUpdate内で処理を行う.
 	void FixedUpdate ()
 	{
+		if(!photonView.isMine)
+		{
+			return;
+		}
+
 		float h = Input.GetAxis("Horizontal");				// 入力デバイスの水平軸をhで定義
 		float v = Input.GetAxis("Vertical");				// 入力デバイスの垂直軸をvで定義
 		anim.SetFloat("Speed", v);							// Animator側で設定している"Speed"パラメタにvを渡す
